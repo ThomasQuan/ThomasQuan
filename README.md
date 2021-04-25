@@ -1,4 +1,5 @@
-![Group 4](https://user-images.githubusercontent.com/54914152/115979809-11d6ea80-a556-11eb-8cbd-b8f8e4c1907c.png)
+![Group 4](https://user-images.githubusercontent.com/54914152/115980056-b73e8e00-a557-11eb-8494-ffc673f9f558.png)
+
 <h1>📱 CONTACT INFO</h1>
 <ul>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="https://www.linkedin.com/in/thanh-quan-355912169/"/>
